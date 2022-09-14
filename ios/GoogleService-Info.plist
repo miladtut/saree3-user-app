@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>860107104357-e59mjo26f70qv0r9r1voq9hhrl7dabua.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.860107104357-e59mjo26f70qv0r9r1voq9hhrl7dabua</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>860107104357-ni2ppfljs3ihn0f4nauvmk7r0eql7dce.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA09GZxvKHVFOK7trWfBW3OAh5EL86dQsk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>860107104357</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fastDelivery.fast</string>
+	<key>PROJECT_ID</key>
+	<string>fast-af088</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fast-af088.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:860107104357:ios:adc43ce7f6c98b0488e68c</string>
+</dict>
+</plist>
